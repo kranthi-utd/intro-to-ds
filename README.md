@@ -1,1 +1,1 @@
-This is an overview of Data Science
+This is an introductory overview of Data Science using a simple prediction task.
